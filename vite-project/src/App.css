@@ -1,0 +1,15 @@
+#heading {
+  text-align: center;
+}
+
+img{
+  width: 100%;
+}
+
+#image-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 40px;
+  padding: 40px;
+}
